@@ -183,4 +183,4 @@ ab-testing-marketing/
 ## Author
 
 **Sandeep Singh** — Data Analyst  
-[LinkedIn](https://linkedin.com/in/SandeepSingh) · [GitHub](https://github.com/SandeepSingh)
+[LinkedIn](https://www.linkedin.com/in/sandeep-singh-aaa1271b7/) · [GitHub](https://github.com/sandeepsingh9871)

@@ -1,0 +1,9 @@
+hour,group,conversion_rate,group_label
+Night,ad,1.3454088577112344,Test (Ad)
+Night,psa,0.13605442176870747,Control (PSA)
+Morning,ad,2.1160804535399853,Test (Ad)
+Morning,psa,1.2572027239392352,Control (PSA)
+Afternoon,ad,2.7668320340184267,Test (Ad)
+Afternoon,psa,2.0157595748579804,Control (PSA)
+Evening,ad,2.743420727793413,Test (Ad)
+Evening,psa,2.065712426805465,Control (PSA)

@@ -1,8 +1,11 @@
 # A/B Test Analysis — Marketing Campaign Effectiveness
 
-> **Tools:** Python · Pandas · SciPy · Seaborn · Tableau  
+> **Tools:** Python · Pandas · SciPy · Seaborn · Tableau
+
 > **Dataset:** [Marketing A/B Testing — Kaggle](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
+
 > **Live Dashboard:** [AB-Test-Marketing-Campaign-Sandeep-Singh — Tableau](https://public.tableau.com/authoring/AB-Test-Marketing-Campaign-Sandeep-Singh/Dashboard1#1)
+
 > **Techniques:** Chi-Square Test · Confidence Intervals · Cohen's h · Difference-in-Differences (Causal Inference)
 
 ---
